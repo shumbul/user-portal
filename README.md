@@ -8,7 +8,10 @@
 4. Github account (https://github.com/) <br>
 5. Git Bash (download from: https://gitforwindows.org/) <br> <br>
 
-## Steps to run
+## Run this now : 
+This site is hosted at [GitHub](https://shumbul.github.io/user-portal/).
+
+## Steps to run on localhost
 1. Chech whether the following above requirements are fulfilled properly in your OS, run the following commands in Command Promt:<br>
 a. > node --version <br>
 b. > npm --version  <br>
