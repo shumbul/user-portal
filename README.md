@@ -1,4 +1,4 @@
-#User Portal Using AngularJS
+#User Portal Using AngularJS<br>
 ##Requirements
 1. Nodejs 
 (install from: https://nodejs.org/en/) <br>
@@ -10,11 +10,11 @@
 
 ##Steps to run
 1. Chech whether the following above requirements are fulfilled properly in your OS, run the following commands in Command Promt:<br>
-a. ```>node --version <br>```
-b. ```>npm --version``` <br>
-c.	i) ```>npm i browser-sync@2.24.1``` <br>
-	ii) ```>browser-sync version ```<br>
-d. ```>git --version``` <br>
+a. ```> node --version <br>```
+b. ```> npm --version``` <br>
+c.	i) ```> npm i browser-sync@2.24.1``` <br>
+	ii) ```> browser-sync version ```<br>
+d. ```> git --version``` <br>
 <br>
 2. Upload the Angular file on your github account and copy clone link <br><br>
 3. Open git bash and run the commands: <br>
