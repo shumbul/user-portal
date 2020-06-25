@@ -1,4 +1,4 @@
-#User Portal Using AngularJS
+<br>#User Portal Using AngularJS
 ##Requirements
 1. NodeJs
 (install from: https://nodejs.org/en/) <br>
@@ -6,21 +6,21 @@
 3. AngularJS
 (Link: https://ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular.min.js) <br>
 4. Github account (https://github.com/) <br>
-5. Git Bash (download from: https://gitforwindows.org/) <br>
+5. Git Bash (download from: https://gitforwindows.org/) <br> <br>
 
 ##Steps to run
-1. Chech whether the following above requirements are fulfilled properly in your OS, run the following commands in Command Promt:
-a. node --version
-b. npm --version
-c.	i) npm i browser-sync@2.24.1
-	ii) browser-sync version
-d. git --version
+1. Chech whether the following above requirements are fulfilled properly in your OS, run the following commands in Command Promt:<br>
+a. node --version <br>
+b. npm --version <br>
+c.	i) npm i browser-sync@2.24.1 <br>
+	ii) browser-sync version <br>
+d. git --version <br>
 <br>
-2. Upload the Angular file on your github account and copy clone link
-3. Open git bash and run the commands:
-$ git clone <clone_link> 
+2. Upload the Angular file on your github account and copy clone link <br>
+3. Open git bash and run the commands: <br>
+$ git clone <clone_link>  <br>
 $ cd <filename> <br>
-4. Run:
-$ browser-sync --server --directory --files "**/*/"
-5. If the setup is fine, you should see the "localhost " link on the screen, go to the link and open index.html file.
-6. Register your details and Login using the registered username and password.
+4. Run: <br>
+$ browser-sync --server --directory --files "**/*/" <br>
+5. If the setup is fine, you should see the "localhost " link on the screen, go to the link and open index.html file. <br>
+6. Register your details and Login using the registered username and password. <br>
