@@ -14,13 +14,13 @@ a. > node --version <br>
 b. > npm --version  <br>
 c.	i) > npm i browser-sync@2.24.1 <br>
 	ii) > browser-sync version <br>
-d. > git --version  <br>
+d. > git --version  <br> <br>
+### NOTE: if your setup is working, you should be able to run all the commands of step-1 on git bash
 <br>
 2. Upload the Angular file on your github account and copy clone link <br><br>
 3. Open git bash and run the commands: <br>
 a.  $ git clone <clone_link> <br>
-b.  $ cd <filename> <br>
-** NOTE: if your setup is working, you should be able to run all the commands of step-1 on git bash** <br><br>
+b.  $ cd <filename> <br><br>
 
 4. Run: <br>
  $ browser-sync --server --directory --files "**/*/"
